@@ -50,8 +50,6 @@ import {
   Tag,
   CircleDollarSign,
   Briefcase,
-  Home,
-  Menu,
 } from "lucide-react";
 
 /* ================================================================
